@@ -35,23 +35,10 @@ module.exports = {
         'perfil': '#3451BE',
         'proy': '#070B1E'
       },
-      borderWidth: {
-        '10': '16px',
-      },
-      padding: {
-        '4.5rem': '4.5rem',
-        '0.8rem': '0.8rem',
-      },
       margin: {
-        '67px': '67px',
-        '500px': '500px',
         '18px': '14px'
       },
       fontFamily: {
-        'Raleway': 'Raleway',
-        'Protest': 'Protest Revolution',
-        'Overpass': 'Overpass',
-        'Bebas': 'Bebas Neue',
         'Poppins': 'Poppins'
       },
       width: {
