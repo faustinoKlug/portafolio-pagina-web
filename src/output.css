@@ -872,6 +872,10 @@ html {
   margin-top: 1rem;
 }
 
+.mt-5{
+  margin-top: 1.25rem;
+}
+
 .mt-56{
   margin-top: 14rem;
 }
@@ -938,6 +942,10 @@ html {
 
 .w-32{
   width: 8rem;
+}
+
+.w-320px{
+  width: 320px;
 }
 
 .w-350px{
@@ -1395,6 +1403,12 @@ html {
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
+@media (min-width: 400px){
+  .\34 00px\:w-400px{
+    width: 400px;
+  }
+}
+
 @media (min-width: 640px){
   .sm\:mt-0{
     margin-top: 0px;
@@ -1438,6 +1452,10 @@ html {
 
   .sm\:w-80{
     width: 20rem;
+  }
+
+  .sm\:w-auto{
+    width: auto;
   }
 
   .sm\:max-w-500px{
@@ -1500,6 +1518,14 @@ html {
     margin-top: 0px;
   }
 
+  .md\:h-80{
+    height: 20rem;
+  }
+
+  .md\:w-80{
+    width: 20rem;
+  }
+
   .md\:max-w-700px{
     max-width: 700px;
   }
@@ -1553,16 +1579,8 @@ html {
     height: 9rem;
   }
 
-  .lg\:h-80{
-    height: 20rem;
-  }
-
   .lg\:w-500px{
     width: 500px;
-  }
-
-  .lg\:w-80{
-    width: 20rem;
   }
 
   .lg\:max-w-380px{

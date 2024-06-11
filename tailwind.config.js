@@ -69,13 +69,6 @@ module.exports = {
       boxShadow: {
         'contacto': '2px 2px 10px rgba(0, 0, 0, 0.5)'
       },
-      animation: {
-        'slide-left': 'slide-in-left 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both',
-        'slide-top': 'slide-in-top 1s cubic-bezier(.25,.46,.45,.94) both',
-        'slide-fwd': 'slide-in-fwd-center 2s cubic-bezier(0.250, 0.460, 0.450, 0.940) both',
-        'slide-bottom': 'slide-in-bottom 1s cubic-bezier(.25,.46,.45,.94) both',
-        'slide-right': 'slide-in-right 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both',
-      },
       backgroundColor: {
         'header-mobile': 'rgba(209, 213, 219, 0.4)',
         'header-mobile2': 'rgba(229, 231, 235, 0.2)',
@@ -85,7 +78,6 @@ module.exports = {
         'bg-header-mob2': '#040714',
       },
       screens: {
-        'moises': '1380px',
         '340px': '340px',
         '800px': '800px',
         '1000px': '1000px',
@@ -98,7 +90,8 @@ module.exports = {
         '350px': '350px',
         '460px': '460px',
         '1120px': '1120px',
-        '1150px': '1150px'
+        '1150px': '1150px',
+        '400px': '400px'
       },
       maxWidth: {
         '600px': '630px',
@@ -114,7 +107,7 @@ module.exports = {
         '540px': '540px',
         '700px': '700px',
         '380px': '370px',
-        '760px': '760px'
+        '760px': '760px',
       },
       minWidth: {
         '370px': '370px',
