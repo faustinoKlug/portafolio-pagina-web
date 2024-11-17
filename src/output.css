@@ -503,7 +503,7 @@ html {
 }
 
 .hero {
-  background: url('assets/hero-bg.png')
+  background: url('assets/hero-bg.jpg')
 }
 
 .icon-responsive {
@@ -884,6 +884,26 @@ html {
   margin-top: 1.75rem;
 }
 
+.mt-40{
+  margin-top: 10rem;
+}
+
+.mt-24{
+  margin-top: 6rem;
+}
+
+.mt-20{
+  margin-top: 5rem;
+}
+
+.mt-12{
+  margin-top: 3rem;
+}
+
+.mt-16{
+  margin-top: 4rem;
+}
+
 .block{
   display: block;
 }
@@ -898,14 +918,6 @@ html {
 
 .hidden{
   display: none;
-}
-
-.aspect-video{
-  aspect-ratio: 16 / 9;
-}
-
-.aspect-auto{
-  aspect-ratio: auto;
 }
 
 .h-64{

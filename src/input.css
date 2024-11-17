@@ -52,7 +52,7 @@
       margin: 0 auto;
     }
     .hero {
-      background: url('assets/hero-bg.png')
+      background: url('assets/hero-bg.jpg')
     }
     .icon-responsive {
       display: flex;
