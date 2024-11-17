@@ -1071,6 +1071,11 @@ html {
   gap: 1.25rem;
 }
 
+.gap-x-2{
+  -moz-column-gap: 0.5rem;
+       column-gap: 0.5rem;
+}
+
 .overflow-x-hidden{
   overflow-x: hidden;
 }
